@@ -14,7 +14,7 @@ def long_description():
     return readme
 
 setup(
-    name='kwseo_my_framework',
+    name='kwseo_dl_framework',
     version="0.0.1",
     author="KWSeo",
     author_email="manimahn12@gmail.com",
