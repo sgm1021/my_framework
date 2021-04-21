@@ -17,8 +17,8 @@ after_success:
 
 deploy:
   provider: pypi
-  username: "__token__"
-  password: $DL_FRAMEWORK_PYPI_TOKEN
+  username: "sgm1021"
+  password: $MY_FRAMEWORK_PYPI_TOKEN
   distributions: "sdist bdist_wheel" # Your distributions here
   skip_existing: true
   on:
