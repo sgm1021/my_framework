@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+kwseo_dl_framework.egg-info/PKG-INFO
+kwseo_dl_framework.egg-info/SOURCES.txt
+kwseo_dl_framework.egg-info/dependency_links.txt
+kwseo_dl_framework.egg-info/not-zip-safe
+kwseo_dl_framework.egg-info/top_level.txt
